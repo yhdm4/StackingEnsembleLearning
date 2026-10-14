@@ -1,0 +1,28 @@
+{
+  "counts": {
+    "41": 90,
+    "42": 180,
+    "43": 360,
+    "44": 360
+  },
+  "input_sha256": {
+    "section41_all_folds.csv": "00fcbafec2b1e03bb5a0e607a9b0b1957b1ff3c3f9868a93e6ed48f509e69a23",
+    "section42_all_folds.csv": "72b5d7b39228f67294dc1e311d8ccf7044f41f1fdea19f4018a292d0932e6b5d",
+    "section43_all_folds.csv": "2a11f1409ba86d904ee1c8b8b313ae7b649684d0c935947fd8a3656453b9d734",
+    "section44_all_folds.csv": "27db88e59b73acbac835d5ed60be05fcb2a0f005a8efca65f9a89942e9e22d36"
+  },
+  "seed": 20260914,
+  "friedman_permutations": 999999,
+  "concordance_permutations": 199999,
+  "independent_metric_checks": 4950,
+  "max_recomputed_error": 5.684341886080802e-14,
+  "targeted_update": {
+    "dataset": "parkinsons_updrs_regression",
+    "pure_epochs": 2000,
+    "changed_records": {
+      "41": 5,
+      "42": 10
+    },
+    "unchanged_records": 975
+  }
+}

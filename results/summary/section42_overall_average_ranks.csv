@@ -1,0 +1,7 @@
+﻿method_key,MSELoss_rank,mean_rank,overall_rank
+MLP|base_plus_raw,1.0,1.0,1.0
+MLP|base_only,2.0,2.0,2.0
+LR|base_plus_raw,3.0,3.0,3.0
+Ridge|base_plus_raw,4.0,4.0,4.0
+LR|base_only,5.0,5.0,5.0
+Ridge|base_only,6.0,6.0,6.0

@@ -1,0 +1,7 @@
+# 用途：仅排除本地环境、编译缓存及复现时生成的大型中间文件。
+__pycache__/
+*.pyc
+.venv/
+*.pending
+results/reproduced*/
+**/.cache/
